@@ -1,0 +1,22 @@
+appsetting.json
+
+"Gemini": {
+  "ApiKey": "AIzaSyDBG8NZ8N2e915qQMZSglX0LidzvWLSHKQ",
+  "Endpoint": "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent"
+},
+
+==============================================================================================================
+
+
+Program.cs
+
+builder.Services.AddScoped<FileStorageService>();
+builder.Services.AddHttpClient<GrammarCheckService>();
+// Bind settings
+builder.Services.Configure<GeminiSettings>(builder.Configuration.GetSection("Gemini"));
+builder.Services.AddSingleton(resolver =>
+    resolver.GetRequiredService<IOptions<GeminiSettings>>().Value);
+
+// Add HttpClient
+builder.Services.AddHttpClient<GeminiGrammarService>();
+builder.Services.AddScoped<GeminiGrammarService>();
