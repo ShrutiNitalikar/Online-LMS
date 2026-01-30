@@ -58,9 +58,11 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\uploads\12f843ee-fdd8-4851-a9f3-9905f48ba2a4_HTML Lecture Notes.pdf
+wwwroot\uploads\15ea9749-41e8-4797-9273-dcf7d3ce3370_Front-End.jpg
+wwwroot\uploads\31e5b3bd-53be-490f-8d33-cb65bf6824e9_WIN_20260112_22_54_04_Pro.jpg
 wwwroot\uploads\4432f4d0-65fd-4e83-9305-f537f46648e4_HTML_-_Introduction_-_W3Schools.com_480P.mp4
 wwwroot\uploads\6a65c5af-2f12-4d4f-b779-6a7ab5c1f41f_HTML, CSS & Responsive Design Thumbnail.jpg
 wwwroot\uploads\6fe43ce7-75f1-41de-af5c-0a55bfccb15b_HTML_-_Introduction_-_W3Schools.com_480P.mp4
 wwwroot\uploads\830373df-77ef-446b-bfb3-6cb61a541f00_it1rTvBcfRg[1]
 wwwroot\uploads\cfcb0675-c98a-4489-912f-22f1306723cd_HTML Lecture Notes.pdf
-wwwroot\uploads\12f843ee-fdd8-4851-a9f3-9905f48ba2a4_HTML Lecture Notes.pdf

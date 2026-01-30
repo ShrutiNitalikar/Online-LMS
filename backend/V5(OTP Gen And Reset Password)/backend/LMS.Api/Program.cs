@@ -8,8 +8,6 @@ using System.Security.Claims;
 using System.Text;
 
 
-
-
 namespace LMS.Api
 {
     public class Program

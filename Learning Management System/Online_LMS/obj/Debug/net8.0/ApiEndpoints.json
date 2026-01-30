@@ -63,10 +63,94 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Online_LMS.Controllers.AdminFeedbackController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/admin/feedback/{id}/delete",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_LMS.Controllers.AdminFeedbackController",
+    "Method": "ResolveReport",
+    "RelativePath": "api/admin/feedback/{id}/resolve",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_LMS.Controllers.AdminFeedbackController",
+    "Method": "Restore",
+    "RelativePath": "api/admin/feedback/{id}/restore",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_LMS.Controllers.AdminFeedbackController",
+    "Method": "GetAll",
+    "RelativePath": "api/admin/feedback/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_LMS.Controllers.AdminFeedbackController",
+    "Method": "GetReported",
+    "RelativePath": "api/admin/feedback/reported",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Online_LMS.Controllers.AdminUsersController",
-    "Method": "DeleteUser",
-    "RelativePath": "api/admin/users/{id}",
-    "HttpMethod": "DELETE",
+    "Method": "BlockUser",
+    "RelativePath": "api/admin/users/{id}/block",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_LMS.Controllers.AdminUsersController",
+    "Method": "UnblockUser",
+    "RelativePath": "api/admin/users/{id}/unblock",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -182,6 +266,85 @@
     "ContainingType": "Online_LMS.Controllers.CategoriesController",
     "Method": "GetAll",
     "RelativePath": "api/categories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_LMS.Controllers.FeedbackController",
+    "Method": "AddFeedback",
+    "RelativePath": "api/Feedback",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Online_LMS.DTOs.AddFeedbackDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_LMS.Controllers.FeedbackController",
+    "Method": "UpdateFeedback",
+    "RelativePath": "api/Feedback/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Online_LMS.DTOs.UpdateFeedbackDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_LMS.Controllers.FeedbackController",
+    "Method": "ReportFeedback",
+    "RelativePath": "api/Feedback/{id}/report",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_LMS.Controllers.FeedbackController",
+    "Method": "GetCourseFeedback",
+    "RelativePath": "api/Feedback/course/{courseId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Online_LMS.Controllers.FeedbackController",
+    "Method": "GetMentorCourseFeedback",
+    "RelativePath": "api/Feedback/mentor",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

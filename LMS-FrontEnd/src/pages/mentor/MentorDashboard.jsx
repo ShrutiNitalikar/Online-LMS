@@ -17,6 +17,7 @@ export default function MentorDashboard() {
         <div className="ms-auto d-flex gap-2">
           <Link className="btn btn-outline-light" to="/mentor/courses">Courses</Link>
           <Link className="btn btn-outline-light" to="/mentor/enrolled">Enrolled</Link>
+          <Link className="btn btn-outline-light" to="/mentor/feedback">Student Feedback</Link>
           <Link className="btn btn-outline-light" to="/mentor/profile">Profile</Link>
           <button className="btn btn-warning" onClick={handleLogout}>Logout</button>
         </div>

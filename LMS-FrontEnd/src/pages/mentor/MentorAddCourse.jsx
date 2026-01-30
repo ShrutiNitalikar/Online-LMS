@@ -21,6 +21,7 @@ export default function MentorAddCourse() {
       .catch(() => setCategories([]));
   }, []);
 
+  
   const submit = async (e) => {
     e.preventDefault();
 

@@ -19,6 +19,8 @@ namespace Online_LMS.Data
         public DbSet<Certificate> Certificates => Set<Certificate>();
         public DbSet<Attendance> Attendances => Set<Attendance>();
         public DbSet<OtpVerification> OtpVerifications { get; set; }
+        public DbSet<CourseFeedback> CourseFeedbacks { get; set; }
+
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -27,6 +29,10 @@ namespace Online_LMS.Data
 
             modelBuilder.Entity<User>().HasIndex(x => x.Email).IsUnique();
             modelBuilder.Entity<User>().HasIndex(x => x.Username).IsUnique();
+            modelBuilder.Entity<CourseFeedback>()
+                .HasIndex(f => new { f.CourseId, f.StudentId })
+                .IsUnique();
         }
+
     }
 }

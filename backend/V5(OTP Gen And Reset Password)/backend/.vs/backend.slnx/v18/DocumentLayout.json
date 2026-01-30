@@ -1,28 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\",
+  "WorkspaceRootPath": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|c:\\users\\dell\\desktop\\lms-project\\backend\\lms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|d:\\iet_lms\\online-lms\\backend\\v5(otp gen and reset password)\\backend\\lms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|solutionrelative:lms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|d:\\iet_lms\\online-lms\\backend\\v5(otp gen and reset password)\\backend\\lms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|solutionrelative:lms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LMS_DB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|c:\\users\\dell\\desktop\\lms-project\\backend\\lms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|d:\\iet_lms\\online-lms\\backend\\v5(otp gen and reset password)\\backend\\lms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|solutionrelative:lms.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|c:\\users\\dell\\desktop\\lms-project\\backend\\lms.api\\models\\passwordresetotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|d:\\iet_lms\\online-lms\\backend\\v5(otp gen and reset password)\\backend\\lms.api\\models\\passwordresetotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|solutionrelative:lms.api\\models\\passwordresetotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|c:\\users\\dell\\desktop\\lms-project\\backend\\lms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|solutionrelative:lms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|c:\\users\\dell\\desktop\\lms-project\\backend\\lms.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|d:\\iet_lms\\online-lms\\backend\\v5(otp gen and reset password)\\backend\\lms.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC40EE4B-4F6B-4453-8B96-DDD62F6588D0}|LMS.Api\\LMS.Api.csproj|solutionrelative:lms.api\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -33,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,78 +45,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PasswordResetOtp.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\Models\\PasswordResetOtp.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\Models\\PasswordResetOtp.cs",
               "RelativeDocumentMoniker": "LMS.Api\\Models\\PasswordResetOtp.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\Models\\PasswordResetOtp.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\Models\\PasswordResetOtp.cs",
               "RelativeToolTip": "LMS.Api\\Models\\PasswordResetOtp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T15:46:28.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T15:46:28.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "LMS.Api\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\Controllers\\AuthController.cs",
               "RelativeToolTip": "LMS.Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAAwLAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T15:41:17.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T15:41:17.305Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\Services\\EmailService.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "LMS.Api\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\Services\\EmailService.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\Services\\EmailService.cs",
               "RelativeToolTip": "LMS.Api\\Services\\EmailService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T15:24:34.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T15:24:34.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\appsettings.json",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\appsettings.json",
               "RelativeDocumentMoniker": "LMS.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\appsettings.json",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\appsettings.json",
               "RelativeToolTip": "LMS.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-25T15:22:59.737Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\Program.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\Program.cs",
               "RelativeDocumentMoniker": "LMS.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\Program.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\Program.cs",
               "RelativeToolTip": "LMS.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T14:53:24.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Users [Data]",
+              "DocumentIndex": 2,
+              "Title": "dbo.Users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LMS_DB/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/LMS_DB/True/SqlTable/dbo.Users.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-01-25T14:49:57.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T14:49:57.601Z"
             }
           ]
         }

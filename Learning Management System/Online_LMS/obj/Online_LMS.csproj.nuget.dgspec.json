@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Online_LMS.csproj": {}
+    "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Online_LMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Online_LMS.csproj": {
+    "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Online_LMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Online_LMS.csproj",
+        "projectUniqueName": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Online_LMS.csproj",
         "projectName": "Online_LMS",
-        "projectPath": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Online_LMS.csproj",
-        "packagesPath": "C:\\Users\\Ayush Ankush Jadhav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\obj\\",
+        "projectPath": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Online_LMS.csproj",
+        "packagesPath": "C:\\Users\\katka\\.nuget\\packages\\",
+        "outputPath": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ayush Ankush Jadhav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\katka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -27,5 +27,8 @@ namespace Online_LMS.Models
         public Category? Category { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+
+        public ICollection<CourseFeedback>? Feedbacks { get; set; }
+
     }
 }

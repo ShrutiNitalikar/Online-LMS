@@ -3586,23 +3586,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {},
+    "C:\\Users\\katka\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\LMS.Api.csproj",
+      "projectUniqueName": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\LMS.Api.csproj",
       "projectName": "LMS.Api",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\LMS.Api.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\LMS-Project\\backend\\LMS.Api\\obj\\",
+      "projectPath": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\LMS.Api.csproj",
+      "packagesPath": "C:\\Users\\katka\\.nuget\\packages\\",
+      "outputPath": "D:\\IET_LMS\\Online-LMS\\backend\\V5(OTP Gen And Reset Password)\\backend\\LMS.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\katka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

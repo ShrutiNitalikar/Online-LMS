@@ -1,58 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\",
+  "WorkspaceRootPath": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\controllers\\openaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\controllers\\openaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\controllers\\mentorsectiontopiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\controllers\\mentorsectiontopiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\controllers\\mentormaterialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\controllers\\mentormaterialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\dtos\\coursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\dtos\\coursedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\dtos\\assignmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\dtos\\assignmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\models\\assignmentsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\models\\assignmentsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|c:\\users\\ayush ankush jadhav\\onedrive\\desktop\\projects\\learning_management_system\\learning management system\\online_lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\dtos\\addfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\dtos\\addfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\models\\coursefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\models\\coursefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\controllers\\adminfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\controllers\\adminfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\dtos\\updatefeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\dtos\\updatefeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\migrations\\20260130054344_addcoursefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\migrations\\20260130054344_addcoursefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\migrations\\20260130101320_addupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\migrations\\20260130101320_addupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\migrations\\20260130103701_adduserisblocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\migrations\\20260130103701_adduserisblocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\migrations\\20260130094525_addfeedbackeditandreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\migrations\\20260130094525_addfeedbackeditandreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|d:\\iet_lms\\online-lms\\learning management system\\online_lms\\migrations\\20260130092354_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199C5B2F-9D70-FC8E-17EA-72863B93094B}|Online_LMS\\Online_LMS.csproj|solutionrelative:online_lms\\migrations\\20260130092354_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,165 +86,244 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Online_LMS\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T04:29:24.656Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OpenAiController.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Controllers\\OpenAiController.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\Controllers\\OpenAiController.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Controllers\\OpenAiController.cs",
-              "RelativeToolTip": "Online_LMS\\Controllers\\OpenAiController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T04:27:32.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MentorSectionTopicController.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Controllers\\MentorSectionTopicController.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\Controllers\\MentorSectionTopicController.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Controllers\\MentorSectionTopicController.cs",
-              "RelativeToolTip": "Online_LMS\\Controllers\\MentorSectionTopicController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAwEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T04:26:49.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MentorMaterialController.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Controllers\\MentorMaterialController.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\Controllers\\MentorMaterialController.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Controllers\\MentorMaterialController.cs",
-              "RelativeToolTip": "Online_LMS\\Controllers\\MentorMaterialController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T04:26:01.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseDtos.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\DTOs\\CourseDtos.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\DTOs\\CourseDtos.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\DTOs\\CourseDtos.cs",
-              "RelativeToolTip": "Online_LMS\\DTOs\\CourseDtos.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T14:59:24.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AssignmentDtos.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\DTOs\\AssignmentDtos.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\DTOs\\AssignmentDtos.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\DTOs\\AssignmentDtos.cs",
-              "RelativeToolTip": "Online_LMS\\DTOs\\AssignmentDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T14:58:32.561Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Models\\User.cs",
-              "RelativeToolTip": "Online_LMS\\Models\\User.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T14:34:27.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\appsettings.json",
-              "RelativeDocumentMoniker": "Online_LMS\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\appsettings.json",
-              "RelativeToolTip": "Online_LMS\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-27T14:26:25.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentCourseController.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Controllers\\StudentCourseController.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\Controllers\\StudentCourseController.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Controllers\\StudentCourseController.cs",
-              "RelativeToolTip": "Online_LMS\\Controllers\\StudentCourseController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAwGoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T04:28:41.463Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AssignmentSubmission.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Models\\AssignmentSubmission.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\Models\\AssignmentSubmission.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Models\\AssignmentSubmission.cs",
-              "RelativeToolTip": "Online_LMS\\Models\\AssignmentSubmission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T14:29:12.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Assignment.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Models\\Assignment.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\Models\\Assignment.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Models\\Assignment.cs",
-              "RelativeToolTip": "Online_LMS\\Models\\Assignment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T14:28:23.257Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Services\\EmailService.cs",
-              "RelativeToolTip": "Online_LMS\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\appsettings.json",
+              "RelativeDocumentMoniker": "Online_LMS\\appsettings.json",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\appsettings.json",
+              "RelativeToolTip": "Online_LMS\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-30T05:42:52.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Models\\User.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Models\\User.cs",
+              "RelativeToolTip": "Online_LMS\\Models\\User.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAA0wIQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T14:27:08.517Z"
+              "WhenOpened": "2026-01-30T05:28:09.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseFeedback.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Models\\CourseFeedback.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Models\\CourseFeedback.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Models\\CourseFeedback.cs",
+              "RelativeToolTip": "Online_LMS\\Models\\CourseFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:32:00.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddFeedbackDto.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\DTOs\\AddFeedbackDto.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\DTOs\\AddFeedbackDto.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\DTOs\\AddFeedbackDto.cs",
+              "RelativeToolTip": "Online_LMS\\DTOs\\AddFeedbackDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:34:49.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Controllers\\FeedbackController.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Online_LMS\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:36:39.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260130101320_addupdated.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Migrations\\20260130101320_addupdated.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Migrations\\20260130101320_addupdated.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Migrations\\20260130101320_addupdated.cs",
+              "RelativeToolTip": "Online_LMS\\Migrations\\20260130101320_addupdated.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T10:13:20.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Models\\Assignment.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Models\\Assignment.cs",
+              "RelativeToolTip": "Online_LMS\\Models\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:28:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminUsersController.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Controllers\\AdminUsersController.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Controllers\\AdminUsersController.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Controllers\\AdminUsersController.cs",
+              "RelativeToolTip": "Online_LMS\\Controllers\\AdminUsersController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAA/wJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T10:34:13.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260130103701_AddUserIsBlocked.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Migrations\\20260130103701_AddUserIsBlocked.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Migrations\\20260130103701_AddUserIsBlocked.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Migrations\\20260130103701_AddUserIsBlocked.cs",
+              "RelativeToolTip": "Online_LMS\\Migrations\\20260130103701_AddUserIsBlocked.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T10:37:01.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminFeedbackController.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Controllers\\AdminFeedbackController.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Controllers\\AdminFeedbackController.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Controllers\\AdminFeedbackController.cs",
+              "RelativeToolTip": "Online_LMS\\Controllers\\AdminFeedbackController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAvwHsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T10:34:54.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260130054344_AddCourseFeedback.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Migrations\\20260130054344_AddCourseFeedback.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Migrations\\20260130054344_AddCourseFeedback.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Migrations\\20260130054344_AddCourseFeedback.cs",
+              "RelativeToolTip": "Online_LMS\\Migrations\\20260130054344_AddCourseFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:43:44.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Program.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Program.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Program.cs",
+              "RelativeToolTip": "Online_LMS\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T09:24:36.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Online_LMS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAKYBAAAAAAAAAADwv7YBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T07:24:57.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260130094525_AddFeedbackEditAndReport.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Migrations\\20260130094525_AddFeedbackEditAndReport.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Migrations\\20260130094525_AddFeedbackEditAndReport.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Migrations\\20260130094525_AddFeedbackEditAndReport.cs",
+              "RelativeToolTip": "Online_LMS\\Migrations\\20260130094525_AddFeedbackEditAndReport.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T09:45:25.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260130092354_update.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Migrations\\20260130092354_update.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Migrations\\20260130092354_update.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Migrations\\20260130092354_update.cs",
+              "RelativeToolTip": "Online_LMS\\Migrations\\20260130092354_update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T09:23:54.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateFeedbackDto.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\DTOs\\UpdateFeedbackDto.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\DTOs\\UpdateFeedbackDto.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\DTOs\\UpdateFeedbackDto.cs",
+              "RelativeToolTip": "Online_LMS\\DTOs\\UpdateFeedbackDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T09:44:13.588Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Program.cs",
-              "RelativeDocumentMoniker": "Online_LMS\\Program.cs",
-              "ToolTip": "C:\\Users\\Ayush Ankush Jadhav\\OneDrive\\Desktop\\Projects\\Learning_Management_System\\Learning Management System\\Online_LMS\\Program.cs",
-              "RelativeToolTip": "Online_LMS\\Program.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAYwG8AAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Online_LMS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T14:21:40.654Z"
+              "WhenOpened": "2026-01-30T05:34:02.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\Models\\Course.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\Models\\Course.cs",
+              "RelativeToolTip": "Online_LMS\\Models\\Course.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T05:28:23.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "Online_LMS\\DTOs\\AuthDtos.cs",
+              "ToolTip": "D:\\IET_LMS\\Online-LMS\\Learning Management System\\Online_LMS\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "Online_LMS\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:00:23.114Z"
             }
           ]
         }

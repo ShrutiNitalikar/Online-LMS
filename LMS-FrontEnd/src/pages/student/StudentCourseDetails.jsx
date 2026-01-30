@@ -15,7 +15,7 @@ export default function StudentCourseDetails() {
 
   // ✅ Assignments
   const [assignments, setAssignments] = useState([]);
-  const [selectedFiles, setSelectedFiles] = useState({}); 
+  const [selectedFiles, setSelectedFiles] = useState({});
   // { assignmentId: File }
 
   const loadCourse = async () => {
@@ -122,8 +122,18 @@ export default function StudentCourseDetails() {
                   Enroll Now
                 </button>
               ) : (
-                <span className="badge bg-success fs-6">✅ Enrolled</span>
+                <div className="d-flex gap-2 align-items-center">
+                  <span className="badge bg-success fs-6">✅ Enrolled</span>
+
+                  <Link
+                    to={`/student/feedback/${id}`}
+                    className="btn btn-outline-primary btn-sm"
+                  >
+                    ⭐ Give Feedback
+                  </Link>
+                </div>
               )}
+
             </div>
           </div>
         </div>
@@ -187,9 +197,9 @@ export default function StudentCourseDetails() {
                                         </div>
                                       </div>
 
-                                        <Link className="btn btn-sm btn-dark" to={`/student/material/${m.materialId}`}>
-                                            View
-                                        </Link>
+                                      <Link className="btn btn-sm btn-dark" to={`/student/material/${m.materialId}`}>
+                                        View
+                                      </Link>
 
                                     </div>
                                   ))}
